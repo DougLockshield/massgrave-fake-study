@@ -44,6 +44,7 @@ Apesar de parecerem inofensivos, esses scripts podem ser facilmente modificados 
 3.	**O terminal no Kali deverá receber a conexão e abrir uma shell reversa.**
 
 👀 O que observar
+
 	•	O .bat contém um comando PowerShell embutido que faz download e executa o shell.ps1 automaticamente.
 	•	Nenhum alerta de antivírus pode aparecer se a máquina estiver desprotegida.
 	•	A janela do PowerShell fica oculta (-windowstyle hidden), dificultando a detecção pelo usuário final.
