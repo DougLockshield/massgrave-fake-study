@@ -46,7 +46,7 @@ Apesar de parecerem inofensivos, esses scripts podem ser facilmente modificados 
 👀 O que observar
 
 	•	O .bat contém um comando PowerShell embutido que faz download e executa o shell.ps1 automaticamente.
-	•	Nenhum alerta de antivírus pode aparecer se a máquina estiver desprotegida.
+	•	Nos testes que fiz, utilizei o Antivirus Defender e ele não identificou o comportamento malicioso.
 	•	A janela do PowerShell fica oculta (-windowstyle hidden), dificultando a detecção pelo usuário final.
 
  📹 Vídeo relacionado
